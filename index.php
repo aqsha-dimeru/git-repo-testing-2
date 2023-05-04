@@ -7,6 +7,7 @@
     <title>Git Practice</title>
 </head>
 <body>
+    <h2>TIME IS MONEY</h2>
     <p>This is a working area for Git</p>
 </body>
 </html>
